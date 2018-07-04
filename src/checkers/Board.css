@@ -1,0 +1,38 @@
+.white-cell {
+    -fx-background-color: #EAE7DC;
+    -fx-border-width : 0 0;
+}
+
+.black-cell {
+    -fx-background-color: #8E8D8A;
+    -fx-border-width : 0 0;
+    -fx-cursor: hand;
+}
+
+.back-fill {
+    -fx-background-color: #CDCDCD;
+    -fx-border-width : 0 0;
+}
+
+.board-border {
+    -fx-border-color: #8E8D8A;
+}
+
+.text-1 {
+    -fx-text-fill: #8E8D8A;
+}
+
+.white-piece {
+    -fx-fill: #FFFFFF;
+    -fx-stroke: #8E8D8A;
+}
+
+.black-piece {
+    -fx-fill: #000000;
+    -fx-stroke: #8E8D8A;
+}
+
+.selected-cell {
+    -fx-border-color:  #E85A4F;
+    -fx-border-width: 2;
+}
