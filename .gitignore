@@ -1,3 +1,7 @@
 .idea/*
 out/*
-tmp/*
+./temp
+./temp/*
+temp/*
+/temp
+/temp/*
